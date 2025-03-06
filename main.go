@@ -245,6 +245,6 @@ func main() {
 			return
 		}
 
-		fmt.Println("Image embedded successfully in", mp3File)
+		fmt.Println("Embedded successfully in", mp3File)
 	}
 }
